@@ -1,0 +1,25 @@
+.offers-main {
+    background-color: #F6F1E9;
+}
+
+.offer-name {
+    color: orange;
+    font-weight: bolder;
+}
+
+.offer-description {
+    margin-left: 30px;
+}
+
+.offers-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.offer-button{
+    background-color: orange;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+
+}

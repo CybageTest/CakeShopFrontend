@@ -1,0 +1,8 @@
+.menu-items {
+    cursor: pointer;
+    text-align: right;
+}
+
+.menu-items:hover{
+    background-color: #EEEEEE;
+}

@@ -1,0 +1,16 @@
+.menu-list-title h2 {
+    color: tomato;
+    text-align: right;
+}
+
+.filter-title {
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: right;
+}
+
+.filter-menu{
+    position: sticky;
+    top: 0;
+    border-right: 1px solid grey;
+}

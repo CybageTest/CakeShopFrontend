@@ -1,0 +1,13 @@
+.place-order-button {
+    background-color: orange;
+    width: fit-content;
+    padding: 8px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.order-main{
+    padding: 5px;
+}

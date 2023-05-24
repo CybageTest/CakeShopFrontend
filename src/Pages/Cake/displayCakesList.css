@@ -1,0 +1,55 @@
+.cakecard-img {
+    padding: 5px;
+}
+
+.cakecard-img img {
+    border-radius: 5%;
+}
+
+.occassionwise-cake {
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+.cakecard-name {
+    font-weight: bolder;
+    margin-top: 3px;
+}
+
+.cakecard-description {
+    color: grey;
+    font-size: 13px;
+}
+
+.cake-weight-cat {
+    display: flex;
+}
+
+.cakecard-price {
+    color: #FF6E31;
+    font-size: 17px;
+    font-weight: bolder;
+    text-align: right;
+    margin-right: 10%;
+}
+
+.add-cart {
+    background-color: #54B435;
+    color: white;
+    padding: 7px;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    width: 65px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.outOfStock{
+    text-align: center;
+}
+
+.out-of-stock-text {
+    text-align: center;
+    margin-top: 1rem;
+    font-weight: bolder;
+}

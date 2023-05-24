@@ -1,0 +1,87 @@
+.fancy-text {
+    color: #CE5959;
+    font-weight: 700;
+    text-shadow: 5px 5px 0px #f5d56a;
+}
+
+.email-address {
+    display: flex;
+}
+
+.footer-main {
+    position: sticky;
+    width: 100%;
+    margin-top: 100px;
+    padding-top: 2rem;
+    background-color: #F0EEED;
+}
+
+.footer-copyright {
+    text-align: center;
+    padding-top: 1rem;
+    font-weight: bolder;
+    
+}
+
+.whatsapp-icon {
+    font-weight: bolder;
+}
+
+.email-address {
+    font-weight: bolder;
+}
+
+.address {
+    font-weight: bolder;
+    
+}
+
+.information-title{
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    margin-left: 1.2rem;
+}
+
+.information-content{
+    display: grid;
+    margin-left: 1.2rem;
+    font-size: 1rem;
+}
+
+.top-categories{
+    cursor: pointer;
+}
+
+.top-categories-title{
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    margin-left: 1.2rem;
+}
+
+.top-categories-list{
+    display: grid;
+    margin-left: 1.2rem;
+    font-size: 1rem;
+    color: gray;
+}
+
+.locations-title{
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    margin-left: 1.2rem;
+}
+
+.locations-list{
+    display: grid;
+    margin-left: 1.2rem;
+    font-size: 1rem;
+    color: gray;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+}

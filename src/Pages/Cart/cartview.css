@@ -1,0 +1,14 @@
+.empty-cart {
+    text-align: center;
+}
+
+.shopping-cart-title {
+    background-color: #3C486B;
+    color: white;
+    font-size: 23px;
+    border-radius: 10px 10px 0px 0px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    margin-bottom: 5px;
+}
